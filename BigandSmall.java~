@@ -1,0 +1,12 @@
+// reads 5 ints and prins largest to smallest ints
+
+public class BigandSmall {
+  // The five integers
+  private int integer1;
+  private int integer2;
+  private int integer3;
+  private int integer4;
+  private int integer5;
+  
+  // method to call the 5 ints.
+  
